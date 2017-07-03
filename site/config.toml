@@ -1,0 +1,14 @@
+baseurl = "/"
+title = "DePumpo.com"
+theme = "vec"
+languageCode = "en-us"
+paginate = 10
+disqusShortname = ""
+googleAnalytics = ""
+
+[params]
+  Keywords = ""
+  Description = "Directory"
+  Avatar = "img/logo.png"
+  SelfIntro = "DePumpo.com"
+  Email = "joe@depumpo.com"
