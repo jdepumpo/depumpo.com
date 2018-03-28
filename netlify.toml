@@ -1,6 +1,5 @@
-[build]
-  command = "npm run build"
-  publish = "dist"
-
-[context.deploy-preview]
-  command = "npm run build-preview"
+[[redirects]]
+  from = "*"
+  to = "https://jfd3.us/"
+  status = 301
+  force = true
